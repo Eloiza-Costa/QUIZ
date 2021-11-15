@@ -1,0 +1,73 @@
+body{
+    background-color: white;
+    color: black;
+    margin: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+header{
+    text-align: center;
+    background-color: 2px whitesmoke;
+    padding: 12px;
+}
+.Questionario{
+    padding: 20px;
+    background-color: black;
+    color:white;
+    border: 2px white solid;
+    width: 50%;
+    margin: auto;
+    border-bottom: 4px rgb(50, 5, 77); 
+
+}
+.Questionario2{
+    padding: 20px;
+    background-color: black;
+    color:white;
+    border: 2px white solid;
+    width: 50%;
+    margin: auto;
+    border-bottom: 4px rgb(50, 5, 77);
+}
+.Questionario3{
+    padding: 20px;
+    background-color: black;
+    color:white;
+    border: 2px white solid;
+    width: 50%;
+    margin: auto;
+    border-bottom: 4px rgb(50, 5, 77);
+}
+.Questionario4{
+    padding: 20px;
+    background-color: black;
+    color:white;
+    border: 2px white solid;
+    width: 50%;
+    margin: auto;
+    border-bottom: 4px rgb(50, 5, 77);
+}
+.Questionario5{
+    padding: 20px;
+    background-color: black;
+    color:white;
+    border: 2px white solid;
+    width: 50%;
+    margin: auto;
+    border-bottom: 4px rgb(50, 5, 77); 
+}
+footer{
+    background-color: purple;
+    height: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    color: white;
+}
+.imagem{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
